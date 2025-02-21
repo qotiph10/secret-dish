@@ -31,3 +31,15 @@ Welcome to the **Food Guessing Game**! This is a fun and interactive game where 
 - **HTML/CSS**: Basic structure and styling.
      
 - **React**: If you choose to build a front-end interface.
+- ## Installation 🛠️
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**:
+2. **Navigate to the Project Directory**:
+    -cd food-guessing-game
+
+3.**Install Dependencies**:
+    -npm install
+4.**Run the Game**:
+    -npm start
