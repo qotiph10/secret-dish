@@ -26,11 +26,11 @@ Welcome to the **Food Guessing Game**! This is a fun and interactive game where 
 ---
 ## Technologies Used 💻
 
-- **JavaScript**: Core logic for the game.
+- **JavaScript**
 
-- **HTML/CSS**: Basic structure and styling.
+- **HTML/CSS**
      
-- **React**: If you choose to build a front-end interface.
+- **React**
 - ## Installation 🛠️
 
 To run this project locally, follow these steps:
