@@ -45,4 +45,4 @@ Welcome to the **Food Guessing Game**! This is a fun and interactive game where 
     -npm start
 ---
 **Or just visit the link below 😉**
-https://secret-dish.netlify.app/
+-https://secret-dish.netlify.app/
