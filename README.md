@@ -33,7 +33,7 @@ Welcome to the **Food Guessing Game**! This is a fun and interactive game where 
 - **React**
 - ## Installation 🛠️
 
-To run this project locally, follow these steps:
+**To run this project locally, follow these steps**:
 
 1. **Clone the Repository**:
 2. **Navigate to the Project Directory**:
