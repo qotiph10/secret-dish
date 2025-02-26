@@ -7,7 +7,7 @@ Welcome to the **Food Guessing Game**! This is a fun and interactive game where 
 ## How to Play 🎮
 
 1. **Start the Game**: The game randomly selects a food from a list of well-known dishes.
-2. **Guess the Food**: You enter the name of the food you think it is.
+2. **Guess the Food**: Enter the name of the food you think it is.
 3. **Get Feedback**: The game compares your guess to the selected food based on:
    - **Type of Food** (e.g., Dinner, Dessert, Snack)
    - **Temperature** (e.g., Hot, Cold, Room Temperature)
@@ -24,25 +24,49 @@ Welcome to the **Food Guessing Game**! This is a fun and interactive game where 
 - **Simple and Fun**: Easy to play, challenging to master!
 
 ---
+
 ## Technologies Used 💻
 
 - **JavaScript**
-
 - **HTML/CSS**
-     
 - **React**
-- ## Installation 🛠️
+
+---
+## Installation 🛠️
 
 **To run this project locally, follow these steps**:
 
 1. **Clone the Repository**:
-2. **Navigate to the Project Directory**:
-    -cd food-guessing-game
 
-3.**Install Dependencies**:
-    -npm install
-4.**Run the Game**:
-    -npm start
----
+```bash
+git clone https://github.com/your-username/food-guessing-game.git
+```
+
+2. **Navigate to the Project Directory**:
+
+```bash
+
+cd food-guessing-game
+
+```
+
+3. **Install Dependencies**:
+
+```bash
+
+npm install
+
+```
+
+4. **Run the Game**:
+
+```bash
+
+npm start
+
+```
+
 **Or just visit the link 😉**
+
+---
 https://secret-dish.netlify.app/
