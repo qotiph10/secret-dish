@@ -1,0 +1,63 @@
+.main-menu {
+  font-family: "Patrick Hand", cursive;
+  background-color: rgb(240, 240, 240);
+  color: rgb(20, 20, 20);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  min-height: 100vh;
+}
+
+.menu-h1 {
+  font-family: "Luckiest Guy", cursive;
+  font-size: 5rem;
+  color: rgb(110, 32, 255);
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.menu-h2 {
+  font-family: "Fredoka One", cursive;
+  font-size: 2rem;
+  color: rgb(80, 0, 200);
+  margin-bottom: 0.5rem;
+  border: none;
+}
+.menu-p {
+  font-size: 1.5rem;
+  color: rgb(20, 20, 20);
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.menu-button {
+  width: 250px;
+  height: 60px;
+  border-radius: 10px;
+  border: 2px solid rgb(110, 32, 255);
+  background-color: white;
+  color: rgb(110, 32, 255);
+  font-family: "Fredoka One", cursive;
+  font-size: 2rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 4rem;
+  box-shadow: 0 4px 10px rgba(110, 32, 255, 0.3);
+}
+
+.menu-button:hover {
+  background-color: rgb(110, 32, 255);
+  color: white;
+  transform: scale(1.05);
+}
+
+.menu-button:active {
+  transform: scale(0.95);
+  background-color: rgb(80, 0, 200);
+  border-color: rgb(80, 0, 200);
+}
